@@ -14,5 +14,4 @@
     "ffmpeg-binaries":"4.0.0" ,
     "node-opus": "0.3.0",
     "opusscript": "0.0.6"
-  },
 }
