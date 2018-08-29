@@ -4,7 +4,7 @@
   "description": "",
   "main": "music.js",
   "scripts": {
-    "test": "node music.js"
+    "test": ""
   },
   "dependencies": {
     "discord.js": "^11.3.2",
