@@ -7,12 +7,12 @@
     "test": ""
   },
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "11.3.2",
     "fs": "0.0.1-security",
     "ytdl-core":"0.7.2" ,
     "simple-youtube-api":"5.0.2" ,
     "ffmpeg-binaries":"4.0.0" ,
-    "node-opus": "^0.3.0",
+    "node-opus": "0.3.0",
     "opusscript": "0.0.6"
   },
   "engines": {
